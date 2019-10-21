@@ -9,7 +9,9 @@ ___
 # Instruktioner:
 
 I Javascript extra övning 1 bekantar vi oss med några metoder att hantera teckensträngar och siffror 
+
 [string metoder på w3schools](https://www.w3schools.com/js/js_string_methods.asp)
+
 [nummer metoder på w3schools](https://www.w3schools.com/js/js_number_methods.asp)
 
 - Gör en variabel med text teckensträngen ``“Kalle tycker mycket om att koda”`` 
