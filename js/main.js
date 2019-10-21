@@ -1,7 +1,7 @@
 const text = 'Kalle tycker mycket om att koda';
 console.log(text.length);
 console.log(text.indexOf('koda'));
-console.log(text.slice(text.indexOf('mycket')));
+console.log(text.slice(text.indexOf('mycket'), text.indexOf('mycket')+7));
 console.log(text.replace('mycket', 'inte'));
 console.log(text.toUpperCase());
 
